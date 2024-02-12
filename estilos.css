@@ -1,0 +1,41 @@
+#header{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+#header h1{
+    width: 500px;
+    margin: 0;
+}
+
+#cuerpo{
+    background: rgb(234, 234, 234);
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+
+img{
+    width: 100%;
+    height: 100%;
+}
+
+
+.arriba h2{
+    float: left;
+    margin: 20px;
+    margin-left: 0;
+}
+
+.arriba span{
+    float: right;
+    margin: 24px;
+
+}
+
+.principal{
+width: 500px;
+    margin: 30px;
+        background: white;
+}
